@@ -16,6 +16,6 @@ For the moment, I want to try a new experience and [Gatsby](https://www.gatsbyjs
 
 I'm really passionate about sharing things and knowledge, usually, I share links with my friends or coworkers in our Slack and then save in [Pocket](https://getpocket.com/a/), but now I want to go one step further writing a little review as an entry post. This idea was heavily inspire in the [Freek Van der Herten’s blog](https://freek.dev/). I really admire this guy from the Laravel community, for example he suggetst to blog about things we learned, so I'm taking this approach for now and beyond.
 
-{% twitter 1297202758618152960 %}
+https://twitter.com/freekmurze/status/1297202758618152960
 
 Lastly and not less important, improving my writing English was my other motivation, I hope this project is going to help me on that side. I’m very proud to finally lunch my blog. :)
