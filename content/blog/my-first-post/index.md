@@ -4,7 +4,8 @@ date: "2021-05-09T22:12:03.284Z"
 description: "Launching my new blog"
 ---
 
-Since the last year I was trying to put some effort on a side project in order to learn some amazing new technology or just for fun. There are a lot of complicated things about side projects, but for me was to actually start something so I choose building my personal blog to fill that purpose.
+Since the last year I was trying to put some effort on a side project in order to learn some amazing new technologies or just for fun.
+There are a lot of complicated things about side projects, but for me was to actually start something so I choose building my personal blog to fill that purpose.
 
 ## The Stack 🏗
 
