@@ -4,7 +4,8 @@ date: "2021-05-09T22:12:03.284Z"
 description: "Launching my new blog"
 ---
 
-Since the last year I was trying to put some effort on a side project in order to learn some amazing new technology or just for fun. There are a lot of complicated things about side projects, but for me was to actually start something so I choose building my personal blog to fill that purpose.
+Since the last year I was trying to put some effort on a side project in order to learn some amazing new technologies or just for fun.
+There are a lot of complicated things about side projects, but for me was to actually start something so I choose building my personal blog to fill that purpose.
 
 ## The Stack 🏗
 
@@ -16,6 +17,6 @@ For the moment, I want to try a new experience and [Gatsby](https://www.gatsbyjs
 
 I'm really passionate about sharing things and knowledge, usually, I share links with my friends or coworkers in our Slack and then save in [Pocket](https://getpocket.com/a/), but now I want to go one step further writing a little review as an entry post. This idea was heavily inspire in the [Freek Van der Herten’s blog](https://freek.dev/). I really admire this guy from the Laravel community, for example he suggetst to blog about things we learned, so I'm taking this approach for now and beyond.
 
-{% twitter 1297202758618152960 %}
+https://twitter.com/freekmurze/status/1297202758618152960
 
 Lastly and not less important, improving my writing English was my other motivation, I hope this project is going to help me on that side. I’m very proud to finally lunch my blog. :)
