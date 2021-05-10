@@ -7,7 +7,7 @@ module.exports = {
 Furthermore, I'm a AI/ML  enthusiasts and some other cutting edge technologies that appears in the market.`,
     },
     description: `A starter blog demonstrating what Gatsby can do :) .`,
-    image: `https://cdn.glitch.com/c184dd61-a4a4-45c4-81c1-758dc5f93dd7%2Fsocial-image.png?v=1620619027208`,
+    image: `https://cdn.glitch.com/c184dd61-a4a4-45c4-81c1-758dc5f93dd7%2Fsocial-image.png`,
     siteUrl: `https://devjoca.me/`,
     social: {
       twitter: `devjoca`,
