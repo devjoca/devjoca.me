@@ -3,7 +3,8 @@ module.exports = {
     title: `DevJoca's Blog`,
     author: {
       name: `Joca Pereyra`,
-      summary: `who lives and works in Lima building useful things.`,
+      summary: `I'm a software engineer based in Lima, Peru. I start as a PHP developer, then learn some python and most of my last projects are on Node.js and TypeScript, so I like to talk about myself as a Backend Developer.
+Furthermore, I'm a AI/ML  enthusiasts and some other cutting edge technologies that appears in the market.`,
     },
     description: `A starter blog demonstrating what Gatsby can do :) .`,
     siteUrl: `https://devjoca.me/`,
