@@ -6,6 +6,7 @@ module.exports = {
       summary: `who lives and works in Lima building useful things.`,
     },
     description: `A starter blog demonstrating what Gatsby can do :) .`,
+    image: `https://cdn.glitch.com/c184dd61-a4a4-45c4-81c1-758dc5f93dd7%2Fsocial-image.png?v=1620619027208`,
     siteUrl: `https://devjoca.me/`,
     social: {
       twitter: `devjoca`,
