@@ -1,3 +1,5 @@
+require("dotenv").config()
+
 module.exports = {
   siteMetadata: {
     title: `DevJoca's Blog`,
@@ -16,6 +18,14 @@ Furthermore, I'm a AI/ML  enthusiasts and some other cutting edge technologies t
   plugins: [
     `gatsby-plugin-image`,
     `gatsby-plugin-twitter`,
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: [
+          process.env.GOOGLE_MEASUREMENT_ID, // Google Analytics / GA
+        ],
+      },
+    },
     {
       resolve: `gatsby-plugin-disqus`,
       options: {
@@ -61,12 +71,6 @@ Furthermore, I'm a AI/ML  enthusiasts and some other cutting edge technologies t
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: `G-J8M611TWG2`,
-      },
-    },
     {
       resolve: `gatsby-plugin-feed`,
       options: {
