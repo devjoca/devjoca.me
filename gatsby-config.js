@@ -17,6 +17,12 @@ Furthermore, I'm a AI/ML  enthusiasts and some other cutting edge technologies t
     `gatsby-plugin-image`,
     `gatsby-plugin-twitter`,
     {
+      resolve: `gatsby-plugin-disqus`,
+      options: {
+        shortname: `devjoca`,
+      },
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/blog`,
